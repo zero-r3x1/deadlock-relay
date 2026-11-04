@@ -2,7 +2,6 @@
 
 # Deadlock Relay
 
-<h2 align="center">Сделал <a href="https://www.youtube.com/@zero-r2x1">ноль</a></h2>
 <p align="center"><a href="https://www.youtube.com/@zero-r2x1">YouTube-канал автора →</a></p>
 
 **Выбор доступных маршрутов Valve для Deadlock.**
