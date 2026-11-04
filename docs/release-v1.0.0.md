@@ -1,7 +1,5 @@
 # Deadlock Relay 1.0.0
 
-## Сделал [ноль](https://www.youtube.com/@zero-r2x1)
-
 [YouTube-канал автора →](https://www.youtube.com/@zero-r2x1)
 
 Первая публичная версия приложения для выбора доступных ретрансляторов Valve в Deadlock.
