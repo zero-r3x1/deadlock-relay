@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="shell" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#373740"/><stop offset="1" stop-color="#17171e"/>
+    </linearGradient>
+    <linearGradient id="letter" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff"/><stop offset="1" stop-color="#d9d9e6"/>
+    </linearGradient>
+    <linearGradient id="route" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#c9c6ff"/><stop offset="1" stop-color="#9298f4"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="496" height="496" rx="118" fill="url(#shell)"/>
+  <rect x="10" y="10" width="492" height="492" rx="116" fill="none" stroke="#ffffff" stroke-opacity=".16" stroke-width="3"/>
+  <path fill="url(#letter)" fill-rule="evenodd" d="M132 120h100c88 0 148 55 148 136S320 392 232 392H132V120Zm54 52v168h45c58 0 95-31 95-84s-37-84-95-84h-45Z"/>
+  <path d="M248 256h144m-48-48 48 48-48 48" fill="none" stroke="#22222b" stroke-width="52" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M248 256h144m-48-48 48 48-48 48" fill="none" stroke="url(#route)" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
