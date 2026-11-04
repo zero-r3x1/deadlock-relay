@@ -2,7 +2,10 @@
 
 # Deadlock Relay
 
-**Выбор доступных маршрутов Valve для Deadlock. Сделал [ноль](https://www.youtube.com/@zero-r2x1).**
+<h2 align="center">Сделал <a href="https://www.youtube.com/@zero-r2x1">ноль</a></h2>
+<p align="center"><a href="https://www.youtube.com/@zero-r2x1">YouTube-канал автора →</a></p>
+
+**Выбор доступных маршрутов Valve для Deadlock.**
 
 Windows-приложение с русским интерфейсом, светлой и тёмной темами. Выбирайте регион подключения, измеряйте пинг и сохраняйте свои пресеты. Работает через Windows Firewall; не изменяет файлы игры и не использует инъекции.
 
